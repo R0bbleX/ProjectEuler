@@ -7,7 +7,7 @@ package projectEuler
 
 object SumFibonacci extends App {
   def sumFibonacci (upperLimit: Int) : Int = {
-    
+
   }
 
   println(sumFibonacci(90))
